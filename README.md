@@ -24,14 +24,14 @@
 
 ## Описание файлов репозитория:
 
-codex_parser.ipynb - парсер кодексов и ФЗ  
-codex_structure.ipynb - файл с выводом структуры кодексов  
-create_agent.ipynb - файл с созданием агента, использующим RAG и дообученную модель (подсчёт бертскора)  
-create_retriever.ipynb - файл с созданием и сравнением разных ретриверов  
-create_vector_store.ipynb - файл создания векторной БД  
-deepseek_g_eval - файл с реализацией LLM as Judge для оценки ответов LLM  
-deepseek_create_dataset.ipynb  - файл создания датасета для обучения и валидации модели  
-QLora_train_v1.ipynb - файл с обучением модели (версия 1)  
-QLora_train_v2.ipynb - файл с обучением модели (версия 2)  
+*codex_parser.ipynb* - парсер кодексов и ФЗ  
+*codex_structure.ipynb* - файл с выводом структуры кодексов  
+*create_agent.ipynb* - файл с созданием агента, использующим RAG и дообученную модель (подсчёт бертскора)  
+*create_retriever.ipynb* - файл с созданием и сравнением разных ретриверов  
+*create_vector_store.ipynb* - файл создания векторной БД  
+*deepseek_g_eval.ipynb* - файл с реализацией LLM as Judge для оценки ответов LLM  
+*deepseek_create_dataset.ipynb*  - файл создания датасета для обучения и валидации модели  
+*QLora_train_v1.ipynb* - файл с обучением модели (версия 1)  
+*QLora_train_v2.ipynb* - файл с обучением модели (версия 2)  
 
 
